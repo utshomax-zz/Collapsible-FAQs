@@ -1,0 +1,80 @@
+html body{
+  padding: 10px;
+}
+body h2{
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+  text-align: center;
+}
+.sortsec h2{
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+  margin-left: 15px;
+  border-bottom: 3px rgb(37, 241, 207) solid;
+}
+.collapsible {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  border: none;
+  border-bottom: 2px rgb(207, 207, 207) dotted;
+  text-align: left;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  padding: 16px;
+  width: 100%;
+}
+.felx-center {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.active, .collapsible:hover {
+  background-color: rgba(91, 241, 216, 0.527);
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #dddddd67;
+}
+
+.faq{
+  height: auto;
+  width: 100%;
+  margin-top: 2px;
+}
+
+.count{
+  padding-top: 1px;
+  margin-left: 7px;
+}
+ .sortbtn{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  outline: none;
+  border: none;
+  padding: 4px;
+  cursor: pointer;
+  background-color: #ffff;
+}
+.sortbtn :hover{
+  color: rgb(6, 235, 178);
+}
+.sortsec{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    margin: 0 10%;
+  }
+}
