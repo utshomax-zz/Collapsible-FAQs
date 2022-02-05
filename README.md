@@ -14,7 +14,7 @@ Features
 Sceenshots
 
 Home
-![image](https://user-images.githubusercontent.com/54968352/152627108-3503be04-efb4-4bce-adb3-16d7630d9ea6.png)
+![image](https://user-images.githubusercontent.com/54968352/152627804-77209324-8337-44ec-9928-ddd2af6fff4d.png)
 expanded
 ![image](https://user-images.githubusercontent.com/54968352/152627024-525a65cf-e084-42a2-9864-8ffde8c5e817.png)
 Sorted
