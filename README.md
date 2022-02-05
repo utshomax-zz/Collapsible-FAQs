@@ -1,7 +1,7 @@
 # Collapsible-FAQs
 This project is a part of NITR-HarmonyOS assessment.
 
-Simple FAQ webpage with vanila JavaScript.
+Simple FAQ webpage with vanilla JavaScript.
 
 No additional library used.
 
